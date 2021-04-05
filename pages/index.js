@@ -25,9 +25,4 @@ function Contador() {
         
 }
 
-<div
-      <img src="images/1200X400.gif"> 
-    </div>
-
-
 export default Home
